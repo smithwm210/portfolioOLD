@@ -14,4 +14,4 @@ Created in Unity
 
 Fall 2022
 
-![Game Screenshot](portfolio/Assets/green-wave-img1.png)
+![Game Screenshot](/Assets/green-wave-img1.png)
