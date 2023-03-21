@@ -13,3 +13,5 @@ Based off of a simplified version of the Donkey Kong arcade game, Mai (PMDmaido)
 Created in Unity
 
 Fall 2022
+
+![Game Screenshot](/portfolio/assets/green-wave-img1.png)
