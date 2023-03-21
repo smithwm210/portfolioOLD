@@ -8,7 +8,7 @@ You can reach me at smithwm210@gmail.com
 
 [Apocalypse: Green Wave](https://smithwm210.github.io/green-wave/Releases-builds/index.html)
 
-Based off of a simplified version of the Donkey Kong arcade game, Mai (PMDmaido), Aidan (Afblank1) and I collaborated on this project. Most of the art is from Mai, Aidan and I wrote the code, I made the music, and the final level design was by myself and Mai.
+Based off of a simplified version of the Donkey Kong arcade game, Mai (pdo@wpi.edu), Aidan (afbryar@wpi.edu) and I collaborated on this project. Most of the art is from Mai, Aidan and I wrote the code, I made the music, and the final level design was by myself and Mai.
 
 Created in Unity
 
