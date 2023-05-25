@@ -15,3 +15,15 @@ Created in Unity
 Fall 2022
 
 ![Game Screenshot](/Assets/green-wave-img1.png)
+
+-------------------------------------
+
+[Slid Not Stirred](https://smithwm210.github.io/slid-not-stirred/Releases-builds/index.html)
+
+Based off of a simplified version of the Donkey Kong arcade game, Mai (pdo@wpi.edu), Aidan (afbryar@wpi.edu) and I collaborated on this project. Most of the art is from Mai, Aidan and I wrote the code, I made the music, and the final level design was by myself and Mai.
+
+Created in Unity
+
+April 2023
+
+![Game Screenshot](/Assets/slid-not-stirred-sns-img1.png)
