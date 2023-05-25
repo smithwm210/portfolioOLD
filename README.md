@@ -20,7 +20,7 @@ Fall 2022
 
 [Slid Not Stirred](https://smithwm210.github.io/slid-not-stirred/Releases-builds/index.html)
 
-The winning game of the WPI IGDA Cutthroat Game Jam, which had the theme Don't Stop! Jacob (JacobAntepli), Sarah (s-bod), Zack (zadams111), and I created this game in two weeks. Jacob and I worked on programming and design. Sarah and Zack were the lead artists.
+The winning game of IGDA WPI's Cutthroat Game Jam, which had the theme Don't Stop! As part of the Game Jam, we were given some fun restrictions like all sound effects originating from our voices, poorly translated subtitles, a "mute" button and more! Jacob Antepli (JacobAntepli) was the lead programmer and designer, William Smith (smithwm210) contributed with programming and level design, and Sarah Bodkin (s-bod) and Zack Adams (zadams111) were the lead artists.
 
 Created in Unity
 
