@@ -8,7 +8,7 @@ You can reach me at smithwm210@gmail.com
 
 [Apocalypse: Green Wave](https://smithwm210.github.io/green-wave/Releases-builds/index.html)
 
-Based off of a simplified version of the Donkey Kong arcade game, Mai (pdo@wpi.edu), Aidan (afbryar@wpi.edu) and I collaborated on this project. Most of the art is from Mai, Aidan and I wrote the code, I made the music, and the final level design was by myself and Mai.
+Based off of a simplified version of the Donkey Kong arcade game, Phuong Mai Do (pdo@wpi.edu), Aidan Bryar (afbryar@wpi.edu) and I collaborated on this project. Most of the art is from Mai, Aidan and I wrote the code, I made the music, and the final level design was by myself and Mai.
 
 Created in Unity
 
@@ -20,7 +20,7 @@ Fall 2022
 
 [Slid Not Stirred](https://smithwm210.github.io/slid-not-stirred/Releases-builds/index.html)
 
-The winning game of IGDA WPI's Cutthroat Game Jam, which had the theme Don't Stop! As part of the Game Jam, we were given some fun restrictions like all sound effects originating from our voices, poorly translated subtitles, a "mute" button and more! Jacob Antepli (JacobAntepli) was the lead programmer and designer, William Smith (smithwm210) contributed with programming and level design, and Sarah Bodkin (s-bod) and Zack Adams (zadams111) were the lead artists.
+The winning game of IGDA WPI's Cutthroat Game Jam, which had the theme Don't Stop! As part of the Game Jam, we were given some fun restrictions like all sound effects originating from our voices, poorly translated subtitles, a prominent MS Paint animation, and more! Jacob Antepli (jaantepli@wpi.edu) was the lead programmer and designer, I contributed with programming and level design, and Sarah Bodkin (sbodkin@wpi.edu) and Zach Adams (zadams@wpi.edu) were the lead artists.
 
 Created in Unity
 
