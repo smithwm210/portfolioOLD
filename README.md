@@ -20,10 +20,10 @@ Fall 2022
 
 [Slid Not Stirred](https://smithwm210.github.io/slid-not-stirred/Releases-builds/index.html)
 
-Based off of a simplified version of the Donkey Kong arcade game, Mai (pdo@wpi.edu), Aidan (afbryar@wpi.edu) and I collaborated on this project. Most of the art is from Mai, Aidan and I wrote the code, I made the music, and the final level design was by myself and Mai.
+The winning game of the WPI IGDA Cutthroat Game Jam, which had the theme Don't Stop! Jacob (JacobAntepli), Sarah (s-bod), Zack (zadams111), and I created this game in two weeks. Jacob and I worked on programming and design. Sarah and Zack were the lead artists.
 
 Created in Unity
 
 April 2023
 
-![Game Screenshot](/Assets/slid-not-stirred-sns-img1.png)
+![Game Screenshot](/Assets/sns-img1.png)
