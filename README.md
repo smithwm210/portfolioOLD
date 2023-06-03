@@ -2,9 +2,9 @@
 
 Hello! My name is Will and I am a student at Worcester Polytechnic Institute in Massachusetts with a passion for game design. So far, I have finished two games in collaborations with other WPI students. My main focus of study is Computer Science, so I have plenty of experience writing code, but I'm interested in all aspects of game development.
 
-You can view my resume [here](https://docs.google.com/document/d/1H31JlxbpYeRLR2hfoMJAUQjS0jLZh2gS-M_6rFvQZZQ/edit)
+View my [resume](./Resume-SmithW.pdf)
 
-You can reach me at smithwm210@gmail.com
+Reach me at smithwm210@gmail.com
 
 -------------------------------------
 
