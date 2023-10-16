@@ -1,6 +1,6 @@
 # smithwm210
 
-Hello! My name is Will and I am a student at Worcester Polytechnic Institute in Massachusetts with a passion for game design. So far, I have finished two games in collaborations with other WPI students. My main focus of study is Computer Science, so I have plenty of experience writing code, but I'm interested in all aspects of game development.
+Hello! My name is Will and I am a student at Worcester Polytechnic Institute in Massachusetts with a passion for game design. So far, I have finished two games in collaboration with other WPI students. I'm pursuing a Techonology BS in Interactive Media and Game Development. I'm interested in all aspects of game development, with a primary focus on game programming and level design.
 
 View my [resume](/Assets/Resume-SmithW.pdf)
 
@@ -10,7 +10,7 @@ Reach me at smithwm210@gmail.com
 
 [Apocalypse: Green Wave](https://smithwm210.github.io/green-wave/Releases-builds/index.html)
 
-Based off of a simplified version of the Donkey Kong arcade game, Phuong Mai Do (pdo@wpi.edu), Aidan Bryar (afbryar@wpi.edu) and I collaborated on this project. Most of the art is from Mai, Aidan and I wrote the code, I made the music, and the final level design was by myself and Mai.
+Based on a simplified version of the Donkey Kong arcade game, Phuong Mai Do (pdo@wpi.edu), Aidan Bryar (afbryar@wpi.edu) and I collaborated on this project. Most of the art is from Mai, Aidan and I wrote the code, I made the music, and the final level design was by myself and Mai.
 
 Created in Unity
 
