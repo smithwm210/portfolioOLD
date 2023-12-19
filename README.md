@@ -40,4 +40,4 @@ Created in Twine
 
 December 2023
 
-![Game Screenshot](/hollowrevival-img1.png)
+![Game Screenshot](Assets/hollowrevival-img1.png)
