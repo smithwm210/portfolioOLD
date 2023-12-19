@@ -32,7 +32,7 @@ April 2023
 
 -------------------------------------
 
-[Hollow Revival](https://smithwm210.github.io/hollow-revival/Releases-builds/index.html)
+[Hollow Revival](https://smithwm210.github.io/hollow-revival/)
 
 A character-focused narrative RPG made in two weeks in Twine. We each developed a character
 Cierra O'Grady (cmogrady@wpi.edu) Lead Programmer
