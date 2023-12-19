@@ -32,7 +32,7 @@ April 2023
 
 -------------------------------------
 
-[Hollow Revival](/IMGD_3450_Final_Project_-_Group_3_-_Hollow_Revival.html)
+[Hollow Revival](/Assets/Hollow-Revival.html)
 
 A character-focused narrative RPG made in two weeks in Twine. We each developed a character
 Cierra O'Grady (cmogrady@wpi.edu) Lead Programmer
@@ -40,4 +40,5 @@ Owen Pugh (orpugh@wpi.edu) Producer
 Elijah Delcastillo (eedelcastillo@wpi.edu) Lead Writer
 
 Created in Twine
+
 December 2023
